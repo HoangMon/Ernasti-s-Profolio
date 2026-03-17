@@ -2,11 +2,13 @@
 <img width="1200" height="475" alt="GHBanner" src="https://wallpapers-clan.com/wp-content/uploads/2025/11/the-legend-of-zelda-sword-in-the-deep-woods-gif-desktop-wallpaper-preview.gif" />
 </div>
 
-# Run and deploy your AI Studio app
+# About Me
 
-This contains everything you need to run your app locally.
+My Coding Profolio: https://ernasti.netlify.app/skills
 
-View your app in AI Studio: https://ai.studio/apps/a9aa2003-b71f-41d2-8f7c-3d33bfda3bb2
+My Photography Profolio: Coming soon....
+
+My Rigs: Coming soon....
 
 ## Run Locally
 
