@@ -12,7 +12,7 @@ My Rigs: Coming soon....
 
 ## Social
 
-FacebooK: https://www.facebook.com/monbruh
+Facebook: https://www.facebook.com/monbruh
 
 Instagram: https://www.instagram.com/ernastie/
 
