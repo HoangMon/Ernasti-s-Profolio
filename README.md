@@ -4,7 +4,7 @@
 
 # About Me
 
-My Coding Profolio: https://ernasti.netlify.app/skills
+My Coding Profolio: [https://ernasti.netlify.app/]
 
 My Photography Profolio: Coming soon....
 
